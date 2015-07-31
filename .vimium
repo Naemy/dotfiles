@@ -1,0 +1,13 @@
+######################################
+# Remapping for BÉPO arrow keys
+######################################
+
+map s scrollDown 
+map t scrollUp
+map R scrollRight
+map C scrollLeft
+
+map r nextTab
+map c previousTab
+
+map k createTab
